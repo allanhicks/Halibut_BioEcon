@@ -13,15 +13,15 @@ Using a length-weight relationship complicates the simulations and uses dynamics
 
 The estimated changes in selectivity from the 2017 IPHC stock assessment were related to observations of weight-at-age for each age.
 
-<img src="/Figures/SelexAssess.png" width="400" height="300">
+<img src="Hicks/Figures/SelexAssess.png" width="400" height="300">
 
 **Figure 1:** Selectivity over time as estimated from the 2017 IPHC stock assessment.
 
-<img src="/Figures/SelexVsWtAtAge.png" width="400" height="300">
+<img src="Hicks/Figures/SelexVsWtAtAge.png" width="400" height="300">
 
 **Figure 2:**  Selectivity vs weight-at-age. The arrows show the sequence over time. The line is a linear regression through the values since 1986.
 
-<img src="/Figures/FemaleMaleSelex.png" width="400" height="300">
+<img src="Hicks/Figures/FemaleMaleSelex.png" width="400" height="300">
 
 **Figure 3:** Male selectivity-at-age as a function of female selectivity-at-age. The top plot shows linear regression lines for each age. The bottom left plot shows male selectivity plotted against female selectivity over all ages. The bottom right plot shows the predicted male selectivity from female selectivity if female selectivity was equal to one.
 
